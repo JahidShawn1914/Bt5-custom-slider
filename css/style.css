@@ -1,0 +1,31 @@
+.banner{
+    background-image: url(../one-piece-anime-artwork-i6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.slider{
+    padding: 20px 80px;
+    background-color: rgba(1, 1, 1, 0.7);
+    color: white;
+}
+.slider h1{
+    margin: 20px 0;
+    font-size: 50px;
+}
+.slider p{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+.slider button{
+    margin-bottom: 70px;
+}
+.carousel-indicators {
+    margin-bottom: 2rem;
+}
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
